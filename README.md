@@ -1,2 +1,2 @@
-# aumento-de-sueldo
+# descuentoOctubre
 Created with CodeSandbox
